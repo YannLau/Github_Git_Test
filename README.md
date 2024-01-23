@@ -7,3 +7,6 @@ Initiate the file.
 但是由于进行了合并操作所以可以看到上面这句话了。
 
 测试 git diff --stat
+
+fuck应该磁轭删除掉的
+
